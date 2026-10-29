@@ -1,2 +1,2 @@
 # gis-week04
-Gender inequality analysis
+Practising GitHub Pull with RStudio.
