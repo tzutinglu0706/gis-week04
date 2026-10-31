@@ -107,6 +107,11 @@ Of the 251 mapped countries and territories, 157 have a calculated
 change and 94 have missing values. Grey areas indicate missing data,
 not zero change.
 
+Of the 94 features without a calculated change, 54 have no matching
+ISO3 entry in the UNDP table. The remaining 40 match an entry but
+lack GII data for at least one of the two years. Missing values
+are retained and shown in grey.
+
 These differences describe changes over time; they do not explain
 the causes of those changes.
 
@@ -116,8 +121,3 @@ the causes of those changes.
   HDR25 composite indices time series.
 - [Esri World Countries Generalized](https://hub.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0/explore):
   world boundaries downloaded as GeoJSON.
-  
-Of the 94 features without a calculated change, 54 have no matching
-ISO3 entry in the UNDP table. The remaining 40 match an entry but
-lack GII data for at least one of the two years. Missing values
-are retained and shown in grey.
