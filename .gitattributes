@@ -1,0 +1,5 @@
+# Exclude the rendered report from language statistics.
+gender_inequality.html linguist-generated=true
+
+# Count the R Markdown analysis as R source.
+*.Rmd linguist-language=R linguist-detectable=true
